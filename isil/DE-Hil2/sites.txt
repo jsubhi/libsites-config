@@ -41,3 +41,67 @@ Handapparat
 
 Handapparate stehen außerhalb der UB.
 Bitte wenden Sie sich an die Auskunft. 
+
+@AMI
+Medienausleihe Hauptcampus
+Raum G009
+Universitätsplatz 1
+31141 Hildesheim
+
++49 5121 8 83-20574
+
+medienausleihe@uni-hildesheim.de 
+
+52.1341,9.976481
+
+Di,Do 9:30-12:30, 14:00-16:00, Mi 14:00-16:00
+
+@AZP
+AZP-Bibliothek
+Kulturcampus Domäne Marienburg
+Weißes Haus (Haus 46), Raum 003
+Domänenstraße 46
+31141 Hildesheim
+
++49 5121 8 83-21110
+
+52.115046, 9.982790
+
+Mo 12:00-15:00
+
+
+@FH
+Freihandbestand
+
+Titel aus dem Freihandbestand können selbst aus dem Regal entnommen werden.
+
+@MAG
+Magazinbestand
+
+Bitte nutzen Sie den "bestellen"-Link um Titel aus dem Magazin zu bestellen. Bestellte Titel werden stündlich zwischen 9:00 und 16:00 ausgehoben und liegen dann für Sie an der Leihtheke zur Abholung bereit.
+
+@ALT
+Magazinbestand
+
+Bitte nutzen Sie den "bestellen"-Link um Titel aus dem Magazin zu bestellen. Bestellte Titel werden stündlich zwischen 9:00 und 16:00 ausgehoben und liegen dann für Sie an der Leihtheke zur Abholung bereit.
+
+@RARA
+Rarabestand im Magazin
+
+Nutzung i.d.R. nur vor Ort möglich. Bitte nutzen Sie den "bestellen"-Link um Titel aus dem Magazin zu bestellen. Bestellte Titel werden stündlich zwischen 9:00 und 16:00 ausgehoben und liegen dann für Sie an der Leihtheke zur Abholung bereit.
+
+@MEDIO
+Mediothek
+
+Die Mediothek befindet sich im Obergeschoss der UB. Die Titel dort werden durch die Auskunft der Mediothek für Sie herausgesucht. 
+
+@HA
+Handapparat
+
+Handapparate stehen außerhalb der UB.
+Bitte wenden Sie sich an die Auskunft.
+
+@ZS-MAG
+Zeitschriftenmagazin
+
+Bitte wenden Sie sich an die Auskunft, um Bände aus dem Zeitschriftenmagazin zu bestellen.
