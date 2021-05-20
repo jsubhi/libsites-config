@@ -73,6 +73,12 @@ Zeitschriftenmagazin
 
 Bitte bestellen Sie gewünschte Bände mit einem Leihschein oder wenden Sie sich an die Auskunft. 
 
+@ls-ntz
+Lesesaalnutzung
+
+Diese Titel können nur vor Ort im Lesesaal genutzt werden. Eine Ausleihe ist nicht möglich. Nutzen Sie bitte den Bestellen-Link. Bestellte Bücher werden zu jeder vollen Stunde aus dem Magazin geholt und ca. 15 Minuten später an der Leihstelle bereitgestellt.  
+
+
 @mf
 Mikroformenschrank
 
